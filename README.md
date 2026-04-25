@@ -1,4 +1,4 @@
-# 💫 Hey, I am Shiwank:
+# 💫 Hey, I am Shiwank Singh
 📊 Aspiring Data Analyst | Data Science Enthusiast<br>📈 Focus: Data Analysis, Data Visualization, Problem Solving<br>📚 Currently Learning: Machine Learning, Advanced Analytics<br>🤝 Open to Data Analytics Internships & Collaboration Opportunities
 
 
